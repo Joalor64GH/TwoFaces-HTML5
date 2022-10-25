@@ -1,6 +1,6 @@
 /* 0.5.0 2022-5-20 0:0:0 */
 var app = new function() {
-    this.name = "Two Faces", this.version = "1", this.date = "2022", this.folder = "asset-v1/", this.looptime = 5640, this.bpm = 85, this.totalframe = 246, this.nbpolo = 7, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !4, this.recmaxloop = 34, this.recminloop = 8, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#AAE0B5", this.col1 = "#77B685", this.col2 = "#469657", this.col3 = "#296836", this.col4 = "#0C3925", this.animearray = [{
+    this.name = "Two Faces ", this.version = "9", this.date = "2022", this.folder = "asset-v1/", this.looptime = 5640, this.bpm = 85, this.totalframe = 246, this.nbpolo = 7, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !4, this.recmaxloop = 34, this.recminloop = 8, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#AAE0B5", this.col1 = "#77B685", this.col2 = "#469657", this.col3 = "#296836", this.col4 = "#0C3925", this.animearray = [{
         name: "1_conductor",
         color: "007C87",
         uniqsnd: !0
